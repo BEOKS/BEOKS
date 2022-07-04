@@ -42,11 +42,10 @@
 ## Work Experience & Projects
 
 ### [Web DICOM Management](https://github.com/BEOKS/Web-DICOM-Management)
-
+경북대 병원과 협업하여 개발한 의료 인공지능 학습을 위한 [DICOM](https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A3%8C%EC%9A%A9_%EB%94%94%EC%A7%80%ED%84%B8_%EC%98%81%EC%83%81_%EB%B0%8F_%ED%86%B5%EC%8B%A0_%ED%91%9C%EC%A4%80) 데이터베이스 구축 서비스
 <details>
   <summary>Details</summary>
   <p>
-    - <a href=https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A3%8C%EC%9A%A9_%EB%94%94%EC%A7%80%ED%84%B8_%EC%98%81%EC%83%81_%EB%B0%8F_%ED%86%B5%EC%8B%A0_%ED%91%9C%EC%A4%80>경북대 병원과 협업하여 개발한 의료 인공지능 학습을 위한 [DICOM] 데이터베이스 구축 서비스</a>
 
 **Develop** **Leader**
 
