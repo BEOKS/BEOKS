@@ -8,18 +8,6 @@
 
 ---
 
-## Contact
-
-- **Email** | lee01042000@gmail.com
-- **Phone** | 010-2506-6791
-
-## Channel
-
-- **Github** | [https://github.com/BEOKS](https://github.com/BEOKS)
-- **Blog** | [https://beoks.tistory.com/](https://beoks.tistory.com/)
-
----
-
 ## Skills
 
 ### Backend
@@ -55,7 +43,10 @@
 
 ### [Web DICOM Management](https://github.com/BEOKS/Web-DICOM-Management)
 
-- 경북대 병원과 협업하여 개발한 의료 인공지능 학습을 위한 [DICOM](https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A3%8C%EC%9A%A9_%EB%94%94%EC%A7%80%ED%84%B8_%EC%98%81%EC%83%81_%EB%B0%8F_%ED%86%B5%EC%8B%A0_%ED%91%9C%EC%A4%80) 데이터베이스 구축 서비스
+<details>
+  <summary>Details</summary>
+  <p>
+    - <a href=https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A3%8C%EC%9A%A9_%EB%94%94%EC%A7%80%ED%84%B8_%EC%98%81%EC%83%81_%EB%B0%8F_%ED%86%B5%EC%8B%A0_%ED%91%9C%EC%A4%80>경북대 병원과 협업하여 개발한 의료 인공지능 학습을 위한 [DICOM] 데이터베이스 구축 서비스</a>
 
 **Develop** **Leader**
 
@@ -71,10 +62,16 @@
 - [TorchServe를 이용한 머신러닝 추론 서버 기능](https://github.com/BEOKS/Web-Dicom-Management#6-machine-learning-result-visualization) 구현 및 미들웨어와 연결
 - 생산성을 높이기 위해 Java≥8, Kotlin,를 이용한 리팩토링
 
+  </p>
+</details>
+
 ### [Web Clinical Trial System](https://github.com/BEOKS/Web-Clinical-Trial-System)
 
 영상의학과 전문의를 위한 의료 인공지능 모델의 임상시험 [테스트베드](https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C) 
-
+<details>
+  <summary>Details </summary>
+  <p>
+    
 **Develop** **Leader**
 
 2022.06 ~ 진행중(개발)
@@ -83,3 +80,6 @@
 - 프로젝트 구현을 위한 아키텍쳐 설계 및 프레임워크 선택
 - 생산성 향상을 위한 Confluence/Jira/Bitbucket 도입 및 교육
 - 현재 기능 설계에 따라 개발 진행 중(업데이트 예정)
+  </p>
+</details>
+
