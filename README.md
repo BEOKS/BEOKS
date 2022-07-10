@@ -12,30 +12,19 @@
 
 ### Backend
 
-- Java, Kotlin
-- Spring Boot, Spring MVC, Spring Security, Sprint Data MongoDB
-- MongoDB, MySQL
-- JUnit5, Mockito
-- Gradle
-
-### DevOps
-
-- Docker, Docker-compose
-- Nginx
-- Github Action
-- XP, OOP, FP
+<img src="https://img.shields.io/badge/Java-007396?&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?&logo=JUnit5&logoColor=white"> <img src="https://img.shields.io/badge/Mockito-6DB33F?&logo=Mockito&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?&logo=Hibernate&logoColor=white">
 
 ### FrontEnd
 
-- Typescript, Javascript
-- React.js (React-redux)
-- Jest, React Testing Library
+  <img src="https://img.shields.io/badge/React-61DAFB?&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Jest-C21325?&logo=Jest&logoColor=white"> <img src="https://img.shields.io/badge/Testing Library-E33332?&logo=Testing Library&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?&logo=Vite&logoColor=white"> 
+### DevOps
+
+<img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Docker Compose-2496ED?&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?&logo=GitHub Actions&logoColor=white"> 
+
 
 ### Tools
 
-- Intellij, WebStorm, VS Code, Vim
-- Git, Github, Bitbucket
-- Jira, Confluence, Notion
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/WebStorm-000000?&logo=WebStorm&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Vim-019733?&logo=Vim&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-0052CC?&logo=Bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?&logo=Confluence&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white">
 
 ---
 
