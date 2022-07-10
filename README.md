@@ -1,3 +1,4 @@
+![BEOKS's github stats](https://github-readme-stats.vercel.app/api?username=BEOKS&show_icons=true&theme=tokyonight)
 ## Introduce
 
 - 안녕하세요, Backend 개발에 관심이 많은 개발자 이재성입니다.
@@ -9,7 +10,6 @@
 ---
 
 ## Skills
-
 ### Backend
 
 <img src="https://img.shields.io/badge/Java>=8-007396?&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?&logo=JUnit5&logoColor=white"> <img src="https://img.shields.io/badge/Mockito-6DB33F?&logo=Mockito&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?&logo=Hibernate&logoColor=white">
